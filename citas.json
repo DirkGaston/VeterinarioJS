@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Bishu",
+    "edad": "1 año y medio",
+    "animal": "gato",
+    "color": "pelirrojo",
+    "enfermedad": "vómitos"
+  },
+  {
+    "nombre": "Manchi",
+    "edad": "1 año y medio",
+    "animal": "gato",
+    "color": "carey",
+    "enfermedad": "dermatitis atópica"
+  }
+]
